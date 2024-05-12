@@ -86,3 +86,8 @@ project_directory/
 
 **Note:**
 If you encounter any issues or have suggestions, please submit them here: [https://github.com/wiliancirillo/tree-viewer](https://github.com/wiliancirillo/tree-viewer).
+
+**Credits**
+This project, tree-viewer, is based on and inspired by the Custom Tree project developed by dragon-devs. Our tool extends the original functionality by providing additional features such as the ability to exclude specific files and directories from the tree output. We are grateful to the original authors and contributors of Custom Tree for their pioneering work which served as a foundation for further development in this tool.
+
+For more details about the original project, please visit their GitHub repository: [https://github.com/dragon-devs/custom-tree](https://github.com/dragon-devs/custom-tree).
